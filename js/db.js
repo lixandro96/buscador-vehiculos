@@ -6,17 +6,19 @@ const autos = [
 		precio: 30000,
 		puertas: 4,
 		color: 'Blanco',
-		transmision: 'automatico'
+		transmision: 'automatico',
+		imagen: '../images/01.jpg'
 	},
 	{ 
-        marca: 'Audi', 
-        modelo: 'A4', 
-        year: 2020, 
-        precio: 40000, 
-        puertas: 4, 
-        color: 'Negro', 
-        transmision: 'automatico' 
-    },
+    marca: 'Audi', 
+    modelo: 'A4', 
+    year: 2020, 
+    precio: 40000, 
+    puertas: 4, 
+    color: 'Negro', 
+    transmision: 'automatico',
+		imagen: '../images/02.jpg'
+  },
 	{
 		marca: 'Ford',
 		modelo: 'Mustang',
@@ -24,7 +26,8 @@ const autos = [
 		precio: 20000,
 		puertas: 2,
 		color: 'Blanco',
-		transmision: 'automatico'
+		transmision: 'automatico',
+		imagen: '../images/03.jpg'
 	},
 	{ 
         marca: 'Audi', 
@@ -33,7 +36,8 @@ const autos = [
         precio: 35000, 
         puertas: 4, 
         color: 'Negro', 
-        transmision: 'automatico' 
+        transmision: 'automatico',
+				imagen: '../images/04.jpeg'
     },
 	{
 		marca: 'BMW',
@@ -42,7 +46,8 @@ const autos = [
 		precio: 70000,
 		puertas: 4,
 		color: 'Rojo',
-		transmision: 'automatico'
+		transmision: 'automatico',
+		imagen: '../images/05.jpeg'
 	},
 	{
 		marca: 'Mercedes Benz',
@@ -51,7 +56,8 @@ const autos = [
 		precio: 25000,
 		puertas: 4,
 		color: 'Blanco',
-		transmision: 'automatico'
+		transmision: 'automatico',
+		imagen: '../images/06.jpeg'
 	},
 	{
 		marca: 'Chevrolet',
@@ -60,7 +66,8 @@ const autos = [
 		precio: 60000,
 		puertas: 2,
 		color: 'Rojo',
-		transmision: 'manual'
+		transmision: 'manual',
+		imagen: '../images/07.jpeg'
 	},
 	{ 
         marca: 'Ford', 
@@ -69,7 +76,8 @@ const autos = [
         precio: 80000, 
         puertas: 2, 
         color: 'Rojo', 
-        transmision: 'manual' 
+        transmision: 'manual',
+				imagen: '../images/08.jpeg' 
     },
 	{
 		marca: 'Dodge',
@@ -78,7 +86,8 @@ const autos = [
 		precio: 40000,
 		puertas: 4,
 		color: 'Blanco',
-		transmision: 'automatico'
+		transmision: 'automatico',
+		imagen: '../images/09.jpeg'
 	},
 	{ 
         marca: 'Audi', 
@@ -87,9 +96,9 @@ const autos = [
         precio: 55000, 
         puertas: 2, 
         color: 'Negro', 
-        transmision: 
-        'manual' 
-    },
+        transmision: 'manual',
+				imagen: '../images/10.jpeg'
+  },
 	{
 		marca: 'Dodge',
 		modelo: 'Challenger',
@@ -97,7 +106,8 @@ const autos = [
 		precio: 25000,
 		puertas: 2,
 		color: 'Rojo',
-		transmision: 'manual'
+		transmision: 'manual',
+		imagen: '../images/11.jpeg'
 	},
 	{
 		marca: 'Mercedes Benz',
@@ -106,7 +116,8 @@ const autos = [
 		precio: 45000,
 		puertas: 4,
 		color: 'Azul',
-		transmision: 'automatico'
+		transmision: 'automatico',
+		imagen: '../images/12.jpeg'
 	},
 	{
 		marca: 'BMW',
@@ -115,7 +126,8 @@ const autos = [
 		precio: 90000,
 		puertas: 4,
 		color: 'Blanco',
-		transmision: 'automatico'
+		transmision: 'automatico',
+		imagen: '../images/13.jpeg'
 	},
 	{ 
         marca: 'Ford', 
@@ -124,8 +136,9 @@ const autos = [
         precio: 60000, 
         puertas: 2, 
         color: 'Negro', 
-        transmision: 'manual' 
-    },
+        transmision: 'manual',
+				imagen: '../images/14.jpeg'
+  },
 	{
 		marca: 'Dodge',
 		modelo: 'Challenger',
@@ -133,7 +146,8 @@ const autos = [
 		precio: 35000,
 		puertas: 2,
 		color: 'Azul',
-		transmision: 'automatico'
+		transmision: 'automatico',
+		imagen: '../images/15.jpeg'
 	},
 	{
 		marca: 'BMW',
@@ -142,7 +156,8 @@ const autos = [
 		precio: 50000,
 		puertas: 4,
 		color: 'Blanco',
-		transmision: 'automatico'
+		transmision: 'automatico',
+		imagen: '../images/16.jpeg'
 	},
 	{
 		marca: 'BMW',
@@ -151,7 +166,8 @@ const autos = [
 		precio: 80000,
 		puertas: 4,
 		color: 'Negro',
-		transmision: 'automatico'
+		transmision: 'automatico',
+		imagen: '../images/17.jpeg'
 	},
 	{
 		marca: 'Mercedes Benz',
@@ -160,7 +176,8 @@ const autos = [
 		precio: 40000,
 		puertas: 4,
 		color: 'Blanco',
-		transmision: 'automatico'
+		transmision: 'automatico',
+		imagen: '../images/18.jpeg'
 	},
 	{ 
         marca: 'Audi', 
@@ -169,6 +186,7 @@ const autos = [
         precio: 30000, 
         puertas: 4, 
         color: 'Azul', 
-        transmision: 'automatico' 
+        transmision: 'automatico',
+				imagen: '../images/19.jpeg'
     }
 ];
