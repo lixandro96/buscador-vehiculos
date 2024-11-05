@@ -7,7 +7,7 @@ const autos = [
 		puertas: 4,
 		color: 'Blanco',
 		transmision: 'automatico',
-		imagen: '../images/01.jpg'
+		imagen: 'images/01.jpg'
 	},
 	{ 
     marca: 'Audi', 
@@ -17,7 +17,7 @@ const autos = [
     puertas: 4, 
     color: 'Negro', 
     transmision: 'automatico',
-		imagen: '../images/02.jpg'
+		imagen: 'images/02.jpg'
   },
 	{
 		marca: 'Ford',
@@ -27,7 +27,7 @@ const autos = [
 		puertas: 2,
 		color: 'Blanco',
 		transmision: 'automatico',
-		imagen: '../images/03.jpg'
+		imagen: 'images/03.jpg'
 	},
 	{ 
         marca: 'Audi', 
@@ -37,7 +37,7 @@ const autos = [
         puertas: 4, 
         color: 'Negro', 
         transmision: 'automatico',
-				imagen: '../images/04.jpeg'
+				imagen: 'images/04.jpeg'
     },
 	{
 		marca: 'BMW',
@@ -47,7 +47,7 @@ const autos = [
 		puertas: 4,
 		color: 'Rojo',
 		transmision: 'automatico',
-		imagen: '../images/05.jpeg'
+		imagen: 'images/05.jpeg'
 	},
 	{
 		marca: 'Mercedes Benz',
@@ -57,7 +57,7 @@ const autos = [
 		puertas: 4,
 		color: 'Blanco',
 		transmision: 'automatico',
-		imagen: '../images/06.jpeg'
+		imagen: 'images/06.jpeg'
 	},
 	{
 		marca: 'Chevrolet',
@@ -67,7 +67,7 @@ const autos = [
 		puertas: 2,
 		color: 'Rojo',
 		transmision: 'manual',
-		imagen: '../images/07.jpeg'
+		imagen: 'images/07.jpeg'
 	},
 	{ 
         marca: 'Ford', 
@@ -77,7 +77,7 @@ const autos = [
         puertas: 2, 
         color: 'Rojo', 
         transmision: 'manual',
-				imagen: '../images/08.jpeg' 
+				imagen: 'images/08.jpeg' 
     },
 	{
 		marca: 'Dodge',
@@ -87,7 +87,7 @@ const autos = [
 		puertas: 4,
 		color: 'Blanco',
 		transmision: 'automatico',
-		imagen: '../images/09.jpeg'
+		imagen: 'images/09.jpeg'
 	},
 	{ 
         marca: 'Audi', 
@@ -97,7 +97,7 @@ const autos = [
         puertas: 2, 
         color: 'Negro', 
         transmision: 'manual',
-				imagen: '../images/10.jpeg'
+				imagen: 'images/10.jpeg'
   },
 	{
 		marca: 'Dodge',
@@ -107,7 +107,7 @@ const autos = [
 		puertas: 2,
 		color: 'Rojo',
 		transmision: 'manual',
-		imagen: '../images/11.jpeg'
+		imagen: 'images/11.jpeg'
 	},
 	{
 		marca: 'Mercedes Benz',
@@ -117,7 +117,7 @@ const autos = [
 		puertas: 4,
 		color: 'Azul',
 		transmision: 'automatico',
-		imagen: '../images/12.jpeg'
+		imagen: 'images/12.jpeg'
 	},
 	{
 		marca: 'BMW',
@@ -127,7 +127,7 @@ const autos = [
 		puertas: 4,
 		color: 'Blanco',
 		transmision: 'automatico',
-		imagen: '../images/13.jpeg'
+		imagen: 'images/13.jpeg'
 	},
 	{ 
         marca: 'Ford', 
@@ -137,7 +137,7 @@ const autos = [
         puertas: 2, 
         color: 'Negro', 
         transmision: 'manual',
-				imagen: '../images/14.jpeg'
+				imagen: 'images/14.jpeg'
   },
 	{
 		marca: 'Dodge',
@@ -147,7 +147,7 @@ const autos = [
 		puertas: 2,
 		color: 'Azul',
 		transmision: 'automatico',
-		imagen: '../images/15.jpeg'
+		imagen: 'images/15.jpeg'
 	},
 	{
 		marca: 'BMW',
@@ -157,7 +157,7 @@ const autos = [
 		puertas: 4,
 		color: 'Blanco',
 		transmision: 'automatico',
-		imagen: '../images/16.jpeg'
+		imagen: 'images/16.jpeg'
 	},
 	{
 		marca: 'BMW',
@@ -167,7 +167,7 @@ const autos = [
 		puertas: 4,
 		color: 'Negro',
 		transmision: 'automatico',
-		imagen: '../images/17.jpeg'
+		imagen: 'images/17.jpeg'
 	},
 	{
 		marca: 'Mercedes Benz',
@@ -177,7 +177,7 @@ const autos = [
 		puertas: 4,
 		color: 'Blanco',
 		transmision: 'automatico',
-		imagen: '../images/18.jpeg'
+		imagen: 'images/18.jpeg'
 	},
 	{ 
         marca: 'Audi', 
@@ -187,6 +187,6 @@ const autos = [
         puertas: 4, 
         color: 'Azul', 
         transmision: 'automatico',
-				imagen: '../images/19.jpeg'
+				imagen: 'images/19.jpeg'
     }
 ];

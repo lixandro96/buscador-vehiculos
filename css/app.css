@@ -16,8 +16,29 @@ h1 {
     max-width: 1200px;
     margin: 0 auto;
 }
+#resultado{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 20px;
+}
+.card{
+    border: 1px solid #949393;
+
+}
+.card p{
+    background-color: #00f2fe;
+    border-radius: 15px;
+    margin-bottom: 10px;
+}
+.contenedorinfo{
+    padding: 1.5rem;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap: 10px;
+}
 p {
     font-size: 2rem;
+    margin: 0;
 }
 h1, p {
     text-align: center;
@@ -37,14 +58,17 @@ form {
 }
 #resultado p {
     margin: 0;
-    padding: 2rem;
-    border-bottom: 1px solid #e1e1e1;
+   
 }
 #resultado p span {
     font-weight: bold;
 }
-#resultado p:last-of-type{
-    border: none;
+
+.imagenAuto{
+    max-width: 100%;
+    object-fit: cover;
+    width: 100%;
+    display: block;
 }
 .alerta {
     padding: 1rem;
