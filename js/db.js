@@ -188,5 +188,25 @@ const autos = [
         color: 'Azul', 
         transmision: 'automatico',
 				imagen: 'images/19.jpeg'
-    }
+  },
+	{ 
+		marca: 'MacLaren', 
+		modelo: 'Gts', 
+		year: 2016, 
+		precio: 30000, 
+		puertas: 2, 
+		color: 'Negro', 
+		transmision: 'manual',
+		imagen: 'https://mclaren.scene7.com/is/image/mclaren/01_GT_Front_34_Static_centered-1:crop-16x9?wid=1786&hei=1005'
+	},
+	{ 
+		marca: 'Toyota', 
+		modelo: 'Supra mk4', 
+		year: 2016, 
+		precio: 30000, 
+		puertas: 2, 
+		color: 'azul', 
+		transmision: 'manual',
+		imagen: 'https://img.freepik.com/premium-photo/toyota-supra-mk4-car-road_1135277-788.jpg'
+	}
 ];
