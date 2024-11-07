@@ -202,10 +202,10 @@ const autos = [
 	{ 
 		marca: 'Toyota', 
 		modelo: 'Supra mk4', 
-		year: 2016, 
+		year: 2010, 
 		precio: 30000, 
 		puertas: 2, 
-		color: 'azul', 
+		color: 'Azul', 
 		transmision: 'manual',
 		imagen: 'https://img.freepik.com/premium-photo/toyota-supra-mk4-car-road_1135277-788.jpg'
 	}
